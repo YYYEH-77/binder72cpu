@@ -1,9 +1,11 @@
 #!/bin/sh
 # Free XRDP KaliLinux | https://aank.me/Youtube
 rm -rf ngrok ngrok.zip ng.sh xrdp-kali.sh x.sh > /dev/null 2>&1
-wget -O ng.sh https://bit.ly/GCngr0k > /dev/null 2>&1
-chmod +x ng.sh
-./ng.sh
+
+
+
+
+
 clear
 echo "======================="
 echo choose ngrok region
